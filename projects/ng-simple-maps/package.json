@@ -1,6 +1,6 @@
 {
   "name": "ng-simple-maps",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Beautiful, lightweight SVG world maps for Angular applications. Create interactive choropleth maps, markers, lines, and more with D3 geo projections. Perfect for data visualization, analytics dashboards, and geographic applications.",
   "keywords": [
     "angular",
