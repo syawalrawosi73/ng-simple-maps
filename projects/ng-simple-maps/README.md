@@ -8,7 +8,7 @@
 
 **Beautiful, lightweight SVG world maps for Angular applications.** Create stunning interactive choropleth maps, data visualizations, geographic dashboards, and analytics with D3 geo projections. Perfect for business intelligence, travel apps, educational tools, and corporate websites.
 
-(https://raw.githubusercontent.com/hanafnafs/ng-simple-maps/main/assets/preview.png)
+!(https://raw.githubusercontent.com/hanafnafs/ng-simple-maps/main/assets/preview.png)
 
 ## 🚀 Live Demo & Documentation
 
